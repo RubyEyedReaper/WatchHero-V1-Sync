@@ -1,6 +1,7 @@
 # Jellyfin Watch History Sync Tool
 
 A Python tool to synchronize user watch history and user accounts from one Jellyfin server to another. Compatible with Jellyfin 10.11.x.
+Be sure to Star and Share!
 
 ## ✨ Features
 
